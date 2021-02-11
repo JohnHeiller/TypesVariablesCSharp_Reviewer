@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesVariablesCSharp_Reviewer", "TypesVariablesCSharp_Reviewer.csproj", "{F7F0B375-D7BB-4CE1-BF69-E0D7BE93D56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F0B375-D7BB-4CE1-BF69-E0D7BE93D56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F0B375-D7BB-4CE1-BF69-E0D7BE93D56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F0B375-D7BB-4CE1-BF69-E0D7BE93D56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F0B375-D7BB-4CE1-BF69-E0D7BE93D56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B82AF8-3F06-45E5-BE83-FECFA4D91E21}
+	EndGlobalSection
+EndGlobal
